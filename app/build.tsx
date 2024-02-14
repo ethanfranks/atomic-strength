@@ -1,11 +1,11 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Train() {
+export default function Build() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Train</Text>
-        <Text style={styles.subtitle}>This is the first tab of your app.</Text>
+        <Text style={styles.title}>Build</Text>
+        <Text style={styles.subtitle}>This is the second tab of your app.</Text>
       </View>
     </View>
   );
